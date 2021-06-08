@@ -8,7 +8,7 @@ body, html {
     height: 100%;
     overflow: hidden;
     font-family: Helvetica, Arial, Microsoft Yahei, sans-serif;
-    background-image: url(../../img/back.jpg);
+    background-image: url(../img/back.jpg);
     background-color: #354141;
     background-repeat: repeat;
     background-size: cover;
