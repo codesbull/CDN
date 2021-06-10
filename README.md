@@ -1,4 +1,4 @@
-# CDN
+# 网页静态资源加速
 >jsDelivr CDN
 
 Github资源在国内加载速度比较慢，因此需要使用CDN加速来优化网站打开速度，jsDelivr + Github 便是免费且好用的CDN，适合小型网站、个人博客网站使用。
